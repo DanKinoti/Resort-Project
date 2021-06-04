@@ -1,0 +1,15 @@
+h1 {
+     text-align: center;
+     color: 	#ccffff;
+}
+
+h2 {
+     text-align: center;
+     font-style: italic;
+}
+
+body {
+       background-color: #00FFFF;
+       font-variant: sans-serif;
+       font-size: 40px
+}
